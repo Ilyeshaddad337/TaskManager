@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//ilyeshaddad337.github.io/TaskManager/static/css/main.31cd00b7.css",
+    "main.js": "//ilyeshaddad337.github.io/TaskManager/static/js/main.3eacb2fd.js",
+    "static/js/787.41a206eb.chunk.js": "//ilyeshaddad337.github.io/TaskManager/static/js/787.41a206eb.chunk.js",
+    "index.html": "//ilyeshaddad337.github.io/TaskManager/index.html",
+    "main.31cd00b7.css.map": "//ilyeshaddad337.github.io/TaskManager/static/css/main.31cd00b7.css.map",
+    "main.3eacb2fd.js.map": "//ilyeshaddad337.github.io/TaskManager/static/js/main.3eacb2fd.js.map",
+    "787.41a206eb.chunk.js.map": "//ilyeshaddad337.github.io/TaskManager/static/js/787.41a206eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31cd00b7.css",
+    "static/js/main.3eacb2fd.js"
+  ]
+}
